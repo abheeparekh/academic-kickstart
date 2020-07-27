@@ -58,8 +58,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 I am a Masters student in Computer Science in the School of Computing, Informatics, and Decision Systems Engineering at Arizona State University. 
