@@ -25,9 +25,7 @@ date_format = "Jan 2006"
   date_start = "2017-08-08"
   date_end = "2019-10-28"
   description = """
- > Designed and tested onboard solid-state recorders and qualified deliverables to spacecraft checkout team
- > Developed an application software to extract high speed telemetry parameters for solid state recorder fro spacecraft data
- > Developed a simulator using FPGA based architecture to test the solid-state recorder
+ Designed and tested onboard solid-state recorders and qualified deliverables to spacecraft checkout team; Developed an application software to extract high speed telemetry parameters for solid state recorder fro spacecraft data; Developed a simulator using FPGA based architecture to test the solid-state recorder
   """
 
 [[experience]]
