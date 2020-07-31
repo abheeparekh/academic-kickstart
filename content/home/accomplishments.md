@@ -27,5 +27,15 @@ date_format = "Jan 2006"
   date_start = "2020-07-25"
   date_end = ""
   description = ""
+  
+  [[item]]
+  organization = "Hackerrank"
+  organization_url = "https://www.hackerrank.com/"
+  title = "Python (Basic)"
+  url = ""
+  certificate_url = "https://www.hackerrank.com/certificates/6c7006d0d706"
+  date_start = "2020-07-25"
+  date_end = ""
+  description = ""
 
 +++
