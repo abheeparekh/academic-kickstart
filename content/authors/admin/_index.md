@@ -44,7 +44,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/abheeparekh/
- - icon: github
+- icon: github
   icon_pack: fab
   link: https://github.com/abheeparekh
 # Link to a PDF of your resume/CV from the About widget.
