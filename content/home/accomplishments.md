@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Hackerrank"
   organization_url = "https://www.hackerrank.com/"
+  title = "Problem Solving (Intermediate)"
+  url = ""
+  certificate_url = "https://www.hackerrank.com/certificates/32494ded7482"
+  date_start = "2020-08-11"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Hackerrank"
+  organization_url = "https://www.hackerrank.com/"
   title = "Problem Solving (Basic)"
   url = ""
   certificate_url = "https://www.hackerrank.com/certificates/3194dd525dbd"
